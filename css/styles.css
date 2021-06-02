@@ -1,0 +1,88 @@
+body {
+  margin-top: 0;
+  /* or margin:0; for  4 sides  */
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+  font-size: 200%;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #a4ebf3;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+  .skill-row{
+    width: 50%;
+    margin: auto;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    }
+    .sk1{
+      width: 25%;
+      float: left;/*today */
+      margin-right: 30px;
+    }
+    .sk2{
+      width: 25%;
+      float: right;
+      margin-left: 30px;
+    }
+    .code-skill-description{
+      clear:left;
+    }
+    .code-skill2-description{
+      clear: right;
+    }
+
+.pro {
+  text-decoration: underline;
+}
+
+.pro1 {
+  color: #66BFBF;
+  font-weight: normal;
+  /* TO DEMPAHSIZE THE TEXT */
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+}
